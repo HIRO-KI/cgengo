@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void){
+
+    int age;
+
+    printf("Ç†Ç»ÇΩÇÕâΩçŒÇ≈Ç∑Ç©ÅH\n");
+    scanf("%d", &age);
+
+    printf("Ç†Ç»ÇΩÇÕ%dçŒÇ≈Ç∑ÅB\n", age);
+
+
+    return 0;
+}
